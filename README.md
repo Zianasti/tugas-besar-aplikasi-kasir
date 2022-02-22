@@ -12,6 +12,6 @@ Aplikasi penjualan berbasis web Dibuat dengan Codeigniter, MySQL, dan Bootstrap.
 
 Tugas Besar Pemrograman II
 Kelompok :
-Fahira-1204044
-Resa Rianti-1204053
+Fahira-1204044,
+Resa Rianti-1204053,
 Zian Asti Dwiyanti-1204049
